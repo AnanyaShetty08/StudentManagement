@@ -1,2 +1,2 @@
 # Student Management System
-This project is used to manage student information.
+This project manages student data and records.
